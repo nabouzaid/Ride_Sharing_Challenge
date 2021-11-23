@@ -22,7 +22,7 @@ This analysis computes ride statistics by city type in order to discern differen
 
   * Total fares collected increased with city size. with urban cities accounting for the greatest proportion of fare revenue by a significant marging
   
-![Fare by city type](Fare_by_city_type.png)
+![Fare by city type](Fare_by_City_Type.png)
 
 ## Summary
 
